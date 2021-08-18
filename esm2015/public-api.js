@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of mylib
+ */
+export * from './lib/mylib.service';
+export * from './lib/mylib.component';
+export * from './lib/mylib.module';
+export * from './lib/custom-card/custom-card.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215bGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxxQkFBcUIsQ0FBQztBQUNwQyxjQUFjLHVCQUF1QixDQUFDO0FBQ3RDLGNBQWMsb0JBQW9CLENBQUM7QUFDbkMsY0FBYyx5Q0FBeUMsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbXlsaWJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9teWxpYi5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL215bGliLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9teWxpYi5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvY3VzdG9tLWNhcmQvY3VzdG9tLWNhcmQuY29tcG9uZW50J1xuIl19
